@@ -4,8 +4,8 @@ This is a Bash script that helps you search for a specific word in files within 
 
 ## Run the Script
 
-Run the Bash script by executing the following command:
+Run the Bash script by executing the following command in the terminal:
 
-chmod +x find_word.sh
+##### chmod +x searchForWord.sh
 
-./find_word.sh
+##### ./searchForWord.sh
