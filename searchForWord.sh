@@ -5,7 +5,7 @@
 #
 #######  
 
-echo "Enter the path name you like to work in: "
+echo "Enter the path name you would like to work in: "
 read pathName
 
 ##### check if the string is zero or not
